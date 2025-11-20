@@ -8,9 +8,9 @@ This document currently serves as a brief and minimal tutorial whose purpose is 
 
 For easier navigation through the files, please note that all files whose names begin with the letter "A" are main scripts that contain function calls to the remaining modules:
 
-· NN for neural network models,
+* NN for neural network models,
 
-· CNN for convolutional network models, and
+* CNN for convolutional network models, and
 
 · TRF for locking and unlocking transformer-based large language models.
 
