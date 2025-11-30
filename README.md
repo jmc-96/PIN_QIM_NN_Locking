@@ -2,7 +2,7 @@ This Python software has been developed as part of the research presented in the
 
 If you find this software useful, please cite the original scientific paper. The citation format is provided below:
 
-**Iva Vasic, Jesús Muñoz-Cádiz, and Bata Vasic, “Dual-Locking Learned AI Models: A PIN-Based Sparse QIM Watermarking and Adaptive Index Permutation Approach,” ***IEEE Transactions on Artificial Intelligence***, (to appear), Vol. XX, No. X, Month 202X. DOI: 10.1109/TAI.2025.3636862**
+**Iva Vasic, Jesús Muñoz-Cádiz, and Bata Vasic, “Dual-Locking Learned AI Models: A PIN-Based Sparse QIM Watermarking and Adaptive Index Permutation Approach,” ***IEEE Transactions on Artificial Intelligence***, (to appear), Vol. XX, No. X, Month 202X. (https://doi.org/10.1109/TAI.2025.3636862)**
 
 This document currently serves as a brief and minimal tutorial whose purpose is to provide an open link to the Python software. It will be expanded and explained in detail soon after the paper is published.
 
