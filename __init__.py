@@ -1,0 +1,1 @@
+# __init__ za package NN_Hand_writen_digits     
